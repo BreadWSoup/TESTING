@@ -1,0 +1,14 @@
+# 157 - Prov157
+
+# County Title
+title = c_prov157
+
+# Settlements
+max_settlements = 3
+b_prov157 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

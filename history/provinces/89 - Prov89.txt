@@ -1,0 +1,14 @@
+# 89 - Prov89
+
+# County Title
+title = c_prov89
+
+# Settlements
+max_settlements = 3
+b_prov89 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

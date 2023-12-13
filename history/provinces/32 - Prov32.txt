@@ -1,0 +1,14 @@
+# 32 - Prov32
+
+# County Title
+title = c_prov32
+
+# Settlements
+max_settlements = 3
+b_prov32 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

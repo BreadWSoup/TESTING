@@ -1,0 +1,14 @@
+# 160 - Prov160
+
+# County Title
+title = c_prov160
+
+# Settlements
+max_settlements = 3
+b_prov160 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

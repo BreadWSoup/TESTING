@@ -1,0 +1,14 @@
+# 67 - Prov67
+
+# County Title
+title = c_prov67
+
+# Settlements
+max_settlements = 3
+b_prov67 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

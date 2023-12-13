@@ -1,0 +1,14 @@
+# 201 - Prov201
+
+# County Title
+title = c_prov201
+
+# Settlements
+max_settlements = 3
+b_prov201 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

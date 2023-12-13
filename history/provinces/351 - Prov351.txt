@@ -1,0 +1,14 @@
+# 351 - Prov351
+
+# County Title
+title = c_prov351
+
+# Settlements
+max_settlements = 3
+b_prov351 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

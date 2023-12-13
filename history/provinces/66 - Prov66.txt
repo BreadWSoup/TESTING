@@ -1,0 +1,14 @@
+# 66 - Prov66
+
+# County Title
+title = c_prov66
+
+# Settlements
+max_settlements = 3
+b_prov66 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 37 - Prov37
+
+# County Title
+title = c_prov37
+
+# Settlements
+max_settlements = 3
+b_prov37 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

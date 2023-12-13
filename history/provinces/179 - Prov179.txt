@@ -1,0 +1,14 @@
+# 179 - Prov179
+
+# County Title
+title = c_prov179
+
+# Settlements
+max_settlements = 3
+b_prov179 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

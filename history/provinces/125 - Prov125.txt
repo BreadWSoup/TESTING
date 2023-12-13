@@ -1,0 +1,14 @@
+# 125 - Prov125
+
+# County Title
+title = c_prov125
+
+# Settlements
+max_settlements = 3
+b_prov125 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

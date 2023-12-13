@@ -1,0 +1,14 @@
+# 281 - Prov281
+
+# County Title
+title = c_prov281
+
+# Settlements
+max_settlements = 3
+b_prov281 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

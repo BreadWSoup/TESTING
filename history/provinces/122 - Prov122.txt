@@ -1,0 +1,14 @@
+# 122 - Prov122
+
+# County Title
+title = c_prov122
+
+# Settlements
+max_settlements = 3
+b_prov122 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

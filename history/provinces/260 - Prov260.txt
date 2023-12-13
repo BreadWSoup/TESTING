@@ -1,0 +1,14 @@
+# 260 - Prov260
+
+# County Title
+title = c_prov260
+
+# Settlements
+max_settlements = 3
+b_prov260 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

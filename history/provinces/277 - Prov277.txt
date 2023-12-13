@@ -1,0 +1,14 @@
+# 277 - Prov277
+
+# County Title
+title = c_prov277
+
+# Settlements
+max_settlements = 3
+b_prov277 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

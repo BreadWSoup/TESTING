@@ -1,0 +1,14 @@
+# 126 - Prov126
+
+# County Title
+title = c_prov126
+
+# Settlements
+max_settlements = 3
+b_prov126 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

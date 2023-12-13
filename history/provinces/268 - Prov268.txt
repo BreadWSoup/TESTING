@@ -1,0 +1,14 @@
+# 268 - Prov268
+
+# County Title
+title = c_prov268
+
+# Settlements
+max_settlements = 3
+b_prov268 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

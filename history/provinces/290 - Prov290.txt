@@ -1,0 +1,14 @@
+# 290 - Prov290
+
+# County Title
+title = c_prov290
+
+# Settlements
+max_settlements = 3
+b_prov290 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 311 - Prov311
+
+# County Title
+title = c_prov311
+
+# Settlements
+max_settlements = 3
+b_prov311 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

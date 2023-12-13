@@ -1,0 +1,14 @@
+# 29 - Prov29
+
+# County Title
+title = c_schpitsbog
+
+# Settlements
+max_settlements = 3
+b_wollhue = castle
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

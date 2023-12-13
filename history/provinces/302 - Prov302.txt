@@ -1,0 +1,14 @@
+# 302 - Prov302
+
+# County Title
+title = c_prov302
+
+# Settlements
+max_settlements = 3
+b_prov302 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

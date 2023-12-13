@@ -1,0 +1,14 @@
+# 44 - Prov44
+
+# County Title
+title = c_prov44
+
+# Settlements
+max_settlements = 3
+b_prov44 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 234 - Prov234
+
+# County Title
+title = c_prov234
+
+# Settlements
+max_settlements = 3
+b_prov234 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

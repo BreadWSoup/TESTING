@@ -1,0 +1,14 @@
+# 114 - Prov114
+
+# County Title
+title = c_prov114
+
+# Settlements
+max_settlements = 3
+b_prov114 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

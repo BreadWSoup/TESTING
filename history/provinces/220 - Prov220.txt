@@ -1,0 +1,14 @@
+# 220 - Prov220
+
+# County Title
+title = c_prov220
+
+# Settlements
+max_settlements = 3
+b_prov220 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

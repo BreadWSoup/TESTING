@@ -1,0 +1,14 @@
+# 360 - Prov360
+
+# County Title
+title = c_prov360
+
+# Settlements
+max_settlements = 3
+b_prov360 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

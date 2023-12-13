@@ -1,0 +1,14 @@
+# 338 - Prov338
+
+# County Title
+title = c_prov338
+
+# Settlements
+max_settlements = 3
+b_prov338 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

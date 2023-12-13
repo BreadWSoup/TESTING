@@ -1,0 +1,14 @@
+# 218 - Prov218
+
+# County Title
+title = c_prov218
+
+# Settlements
+max_settlements = 3
+b_prov218 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

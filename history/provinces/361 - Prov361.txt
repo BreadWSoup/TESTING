@@ -1,0 +1,14 @@
+# 361 - Prov361
+
+# County Title
+title = c_prov361
+
+# Settlements
+max_settlements = 3
+b_prov361 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

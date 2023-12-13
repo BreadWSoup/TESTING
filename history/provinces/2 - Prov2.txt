@@ -1,0 +1,14 @@
+# 2 - Prov2
+
+# County Title
+title = c_prov2
+
+# Settlements
+max_settlements = 2
+b_prov2 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

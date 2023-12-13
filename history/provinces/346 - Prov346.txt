@@ -1,0 +1,14 @@
+# 346 - Prov346
+
+# County Title
+title = c_prov346
+
+# Settlements
+max_settlements = 3
+b_prov346 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

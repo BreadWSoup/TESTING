@@ -1,0 +1,14 @@
+# 241 - Prov241
+
+# County Title
+title = c_prov241
+
+# Settlements
+max_settlements = 3
+b_prov241 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

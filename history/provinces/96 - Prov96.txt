@@ -1,0 +1,14 @@
+# 96 - Prov96
+
+# County Title
+title = c_prov96
+
+# Settlements
+max_settlements = 3
+b_prov96 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

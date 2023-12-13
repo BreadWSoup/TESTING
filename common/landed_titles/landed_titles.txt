@@ -1,0 +1,3397 @@
+e_rebels = {
+	rebel = yes
+	landless = yes
+	primary = yes
+
+	culture = swedish
+	religion = pagan
+	tribe = yes
+
+	color={ 0 0 0 }
+	color2={ 0 0 0 }
+}
+
+e_pirates = {
+	pirate = yes
+	landless = yes
+	primary = yes
+
+	culture = swedish
+	religion = pagan
+	tribe = yes
+
+	color={ 0 0 0 }
+	color2={ 0 0 0 }
+}
+
+e_empire1 = {
+	color={ 170 20 170 }
+	color2={ 255 255 0 }
+	
+	k_kingdom1 = {
+		color={ 247 135 154 }
+		color2={ 247 155 174 }
+		
+		d_duchy1 = {
+			color={ 225 179 149 }
+			color2={ 225 179 199 }
+			
+			c_prov1 = {
+				color={ 225 179 199 }
+				color2={ 225 159 179 }
+				
+				b_prov1 = {
+				}
+			}
+			c_prov2 = {
+				color={ 193 139 127 }
+				color2={ 193 159 147 }
+				
+				b_prov2 = {
+				}
+			}
+			c_prov3 = {
+				color={ 133 17 21 }
+				color2={ 133 37 41 }
+				
+				b_prov3 = {
+				}
+			}
+			c_prov4 = {
+				color={ 106 78 83 }
+				color2={ 106 98 103 }
+				
+				b_prov4 = {
+				}
+			}
+			c_prov5 = {
+				color={ 101 71 62 }
+				color2={ 101 91 82 }
+				
+				b_prov5 = {
+				}
+			}
+		}
+		d_duchy2 = {
+			color={ 44 91 130 }
+			color2={ 44 91 80 }
+			
+			c_prov6 = {
+				color={ 181 100 44 }
+				color2={ 181 120 64 }
+				
+				b_prov6 = {
+				}
+			}
+			c_prov7 = {
+				color={ 220 233 177 }
+				color2={ 200 233 157 }
+				
+				b_prov7 = {
+				}
+			}
+			c_prov8 = {
+				color={ 177 220 115 }
+				color2={ 157 220 135 }
+				
+				b_prov8 = {
+				}
+			}
+			c_prov9 = {
+				color={ 44 91 80 }
+				color2={ 64 91 100 }
+				
+				b_prov9 = {
+				}
+			}
+			c_prov10 = {
+				color={ 144 191 74 }
+				color2={ 164 191 94 }
+				
+				b_prov10 = {
+				}
+			}
+		}
+		d_duchy3 = {
+			color={ 251 122 10 }
+			color2={ 251 172 10 }
+			
+			c_prov11 = {
+				color={ 83 143 138 }
+				color2={ 103 143 158 }
+				
+				b_prov11 = {
+				}
+			}
+			c_prov12 = {
+				color={ 155 154 156 }
+				color2={ 135 134 156 }
+				
+				b_prov12 = {
+				}
+			}
+			c_prov13 = {
+				color={ 231 220 147 }
+				color2={ 231 200 127 }
+				
+				b_prov13 = {
+				}
+			}
+			c_prov14 = {
+				color={ 251 172 10 }
+				color2={ 251 152 30 }
+				
+				b_prov14 = {
+				}
+			}
+			c_prov15 = {
+				color={ 96 60 68 }
+				color2={ 96 80 88 }
+				
+				b_prov15 = {
+				}
+			}
+		}
+		d_duchy4 = {
+			color={ 107 209 77 }
+			color2={ 157 209 77 }
+			
+			c_prov16 = {
+				color={ 168 140 88 }
+				color2={ 168 160 108 }
+				
+				b_prov16 = {
+				}
+			}
+			c_prov17 = {
+				color={ 157 209 77 }
+				color2={ 137 209 97 }
+				
+				b_prov17 = {
+				}
+			}
+			c_prov18 = {
+				color={ 142 93 91 }
+				color2={ 142 113 111 }
+				
+				b_prov18 = {
+				}
+			}
+			c_prov19 = {
+				color={ 217 183 120 }
+				color2={ 217 163 140 }
+				
+				b_prov19 = {
+				}
+			}
+		}
+	}
+	k_kingdom2 = {
+		color={ 45 102 48 }
+		color2={ 65 102 68 }
+		
+		d_duchy5 = {
+			color={ 173 112 59 }
+			color2={ 173 62 59 }
+			
+			c_prov20 = {
+				color={ 62 168 105 }
+				color2={ 82 168 125 }
+				
+				b_prov20 = {
+				}
+			}
+			c_prov21 = {
+				color={ 213 189 87 }
+				color2={ 213 169 107 }
+				
+				b_prov21 = {
+				}
+			}
+			c_prov30 = {
+				color={ 187 125 68 }
+				color2={ 187 145 88 }
+				
+				b_prov30 = {
+				}
+			}
+			c_prov31 = {
+				color={ 173 62 59 }
+				color2={ 173 82 79 }
+				
+				b_prov31 = {
+				}
+			}
+		}
+		d_duchy6 = {
+			color={ 53 55 104 }
+			color2={ 53 55 54 }
+			
+			c_prov22 = {
+				color={ 243 54 61 }
+				color2={ 243 74 81 }
+				
+				b_prov22 = {
+				}
+			}
+			c_prov23 = {
+				color={ 78 66 68 }
+				color2={ 78 86 88 }
+				
+				b_prov23 = {
+				}
+			}
+			c_prov24 = {
+				color={ 234 169 53 }
+				color2={ 234 149 73 }
+				
+				b_prov24 = {
+				}
+			}
+			c_prov25 = {
+				color={ 190 175 117 }
+				color2={ 190 155 137 }
+				
+				b_prov25 = {
+				}
+			}
+			c_schpitsbog = {
+				color={ 53 55 54 }
+				color2={ 73 55 74 }
+				
+				b_wollhue = {
+				}
+			}
+		}
+		d_duchy7 = {
+			color={ 107 188 149 }
+			color2={ 157 188 149 }
+			
+			c_prov26 = {
+				color={ 15 39 49 }
+				color2={ 35 59 49 }
+				
+				b_prov26 = {
+				}
+			}
+			c_prov27 = {
+				color={ 65 125 150 }
+				color2={ 85 145 150 }
+				
+				b_prov27 = {
+				}
+			}
+			c_prov28 = {
+				color={ 157 188 149 }
+				color2={ 137 188 169 }
+				
+				b_prov28 = {
+				}
+			}
+		}
+		d_duchy8 = {
+			color={ 192 235 170 }
+			color2={ 192 235 220 }
+			
+			c_prov32 = {
+				color={ 36 45 49 }
+				color2={ 56 65 49 }
+				
+				b_prov32 = {
+				}
+			}
+			c_prov33 = {
+				color={ 74 53 45 }
+				color2={ 74 73 65 }
+				
+				b_prov33 = {
+				}
+			}
+			c_prov34 = {
+				color={ 192 235 220 }
+				color2={ 172 235 200 }
+				
+				b_prov34 = {
+				}
+			}
+			c_prov35 = {
+				color={ 230 214 203 }
+				color2={ 230 194 183 }
+				
+				b_prov35 = {
+				}
+			}
+			c_prov36 = {
+				color={ 43 50 63 }
+				color2={ 63 70 63 }
+				
+				b_prov36 = {
+				}
+			}
+		}
+		d_duchy9 = {
+			color={ 217 47 123 }
+			color2={ 217 47 73 }
+			
+			c_prov37 = {
+				color={ 240 222 159 }
+				color2={ 240 202 139 }
+				
+				b_prov37 = {
+				}
+			}
+			c_prov38 = {
+				color={ 242 162 73 }
+				color2={ 242 142 93 }
+				
+				b_prov38 = {
+				}
+			}
+			c_prov39 = {
+				color={ 217 47 73 }
+				color2={ 217 67 93 }
+				
+				b_prov39 = {
+				}
+			}
+		}
+		d_duchy10 = {
+			color={ 38 102 138 }
+			color2={ 38 102 88 }
+			
+			c_prov40 = {
+				color={ 62 89 94 }
+				color2={ 82 109 94 }
+				
+				b_prov40 = {
+				}
+			}
+			c_prov41 = {
+				color={ 38 102 88 }
+				color2={ 58 102 108 }
+				
+				b_prov41 = {
+				}
+			}
+			c_prov42 = {
+				color={ 36 78 84 }
+				color2={ 56 98 84 }
+				
+				b_prov42 = {
+				}
+			}
+			c_prov43 = {
+				color={ 8 49 70 }
+				color2={ 28 69 70 }
+				
+				b_prov43 = {
+				}
+			}
+			c_prov44 = {
+				color={ 79 82 27 }
+				color2={ 99 82 47 }
+				
+				b_prov44 = {
+				}
+			}
+		}
+	}
+	k_kingdom3 = {
+		color={ 136 8 8 }
+		color2={ 136 28 28 }
+		
+		d_duchy11 = {
+			color={ 74 95 128 }
+			color2={ 74 95 78 }
+			
+			c_prov45 = {
+				color={ 238 59 27 }
+				color2={ 238 79 47 }
+				
+				b_prov45 = {
+				}
+			}
+			c_prov46 = {
+				color={ 233 182 78 }
+				color2={ 233 162 98 }
+				
+				b_prov46 = {
+				}
+			}
+			c_prov47 = {
+				color={ 74 95 78 }
+				color2={ 94 95 98 }
+				
+				b_prov47 = {
+				}
+			}
+			c_prov58 = {
+				color={ 43 49 39 }
+				color2={ 63 49 59 }
+				
+				b_prov58 = {
+				}
+			}
+			c_prov59 = {
+				color={ 162 144 80 }
+				color2={ 162 164 100 }
+				
+				b_prov59 = {
+				}
+			}
+		}
+		d_duchy12 = {
+			color={ 113 200 136 }
+			color2={ 163 200 136 }
+			
+			c_prov48 = {
+				color={ 150 73 58 }
+				color2={ 150 93 78 }
+				
+				b_prov48 = {
+				}
+			}
+			c_prov49 = {
+				color={ 160 128 81 }
+				color2={ 160 148 101 }
+				
+				b_prov49 = {
+				}
+			}
+			c_prov50 = {
+				color={ 163 200 136 }
+				color2={ 143 200 156 }
+				
+				b_prov50 = {
+				}
+			}
+			c_prov51 = {
+				color={ 175 65 23 }
+				color2={ 175 85 43 }
+				
+				b_prov51 = {
+				}
+			}
+		}
+		d_duchy13 = {
+			color={ 34 86 50 }
+			color2={ 34 36 50 }
+			
+			c_prov54 = {
+				color={ 42 43 68 }
+				color2={ 62 63 68 }
+				
+				b_prov54 = {
+				}
+			}
+			c_prov55 = {
+				color={ 70 95 119 }
+				color2={ 90 115 119 }
+				
+				b_prov55 = {
+				}
+			}
+			c_prov56 = {
+				color={ 34 36 50 }
+				color2={ 54 56 50 }
+				
+				b_prov56 = {
+				}
+			}
+			c_prov57 = {
+				color={ 82 107 176 }
+				color2={ 102 127 176 }
+				
+				b_prov57 = {
+				}
+			}
+		}
+		d_duchy14 = {
+			color={ 240 204 20 }
+			color2={ 240 154 20 }
+			
+			c_prov52 = {
+				color={ 240 204 20 }
+				color2={ 240 184 40 }
+				
+				b_prov52 = {
+				}
+			}
+			c_prov53 = {
+				color={ 244 163 20 }
+				color2={ 244 143 40 }
+				
+				b_prov53 = {
+				}
+			}
+			c_prov65 = {
+				color={ 120 198 22 }
+				color2={ 140 198 42 }
+				
+				b_prov65 = {
+				}
+			}
+			c_prov66 = {
+				color={ 227 85 60 }
+				color2={ 227 105 80 }
+				
+				b_prov66 = {
+				}
+			}
+		}
+		d_duchy15 = {
+			color={ 89 125 47 }
+			color2={ 89 75 47 }
+			
+			c_prov60 = {
+				color={ 12 149 162 }
+				color2={ 32 169 162 }
+				
+				b_prov60 = {
+				}
+			}
+			c_prov61 = {
+				color={ 29 68 103 }
+				color2={ 59 88 103 }
+				
+				b_prov61 = {
+				}
+			}
+			c_prov62 = {
+				color={ 19 128 184 }
+				color2={ 39 148 184 }
+				
+				b_prov62 = {
+				}
+			}
+			c_prov63 = {
+				color={ 89 75 47 }
+				color2={ 89 95 67 }
+				
+				b_prov63 = {
+				}
+			}
+			c_prov64 = {
+				color={ 83 26 19 }
+				color2={ 83 46 39 }
+				
+				b_prov64 = {
+				}
+			}
+		}
+	}
+}
+e_empire2 = {
+	color={ 170 20 170 }
+	color2={ 255 255 0 }
+	
+	k_kingdom4 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy16 = {
+			color={ 220 167 90 }
+			color2={ 220 117 90 }
+			
+			c_prov67 = {
+				color={ 168 180 153 }
+				color2={ 148 180 133 }
+				
+				b_prov67 = {
+				}
+			}
+			c_prov68 = {
+				color={ 120 111 94 }
+				color2={ 120 131 114 }
+				
+				b_prov68 = {
+				}
+			}
+			c_prov69 = {
+				color={ 220 117 90 }
+				color2={ 220 137 110 }
+				
+				b_prov69 = {
+				}
+			}
+			c_prov70 = {
+				color={ 116 121 119 }
+				color2={ 136 121 139 }
+				
+				b_prov70 = {
+				}
+			}
+			c_prov71 = {
+				color={ 222 213 163 }
+				color2={ 222 193 143 }
+				
+				b_prov71 = {
+				}
+			}
+		}
+		d_duchy17 = {
+			color={ 232 136 38 }
+			color2={ 232 186 38 }
+			
+			c_prov72 = {
+				color={ 237 238 164 }
+				color2={ 217 238 144 }
+				
+				b_prov72 = {
+				}
+			}
+			c_prov73 = {
+				color={ 199 106 96 }
+				color2={ 199 126 116 }
+				
+				b_prov73 = {
+				}
+			}
+			c_prov74 = {
+				color={ 232 186 38 }
+				color2={ 232 166 58 }
+				
+				b_prov74 = {
+				}
+			}
+			c_prov75 = {
+				color={ 49 157 220 }
+				color2={ 69 137 220 }
+				
+				b_prov75 = {
+				}
+			}
+		}
+		d_duchy18 = {
+			color={ 49 135 90 }
+			color2={ 49 85 90 }
+			
+			c_prov76 = {
+				color={ 97 99 101 }
+				color2={ 117 119 101 }
+				
+				b_prov76 = {
+				}
+			}
+			c_prov77 = {
+				color={ 49 85 90 }
+				color2={ 69 105 90 }
+				
+				b_prov77 = {
+				}
+			}
+			c_prov78 = {
+				color={ 144 50 71 }
+				color2={ 144 70 91 }
+				
+				b_prov78 = {
+				}
+			}
+		}
+		d_duchy19 = {
+			color={ 33 113 160 }
+			color2={ 33 113 110 }
+			
+			c_prov79 = {
+				color={ 57 91 112 }
+				color2={ 77 111 112 }
+				
+				b_prov79 = {
+				}
+			}
+			c_prov80 = {
+				color={ 33 113 110 }
+				color2={ 53 113 130 }
+				
+				b_prov80 = {
+				}
+			}
+			c_prov81 = {
+				color={ 253 107 45 }
+				color2={ 253 127 65 }
+				
+				b_prov81 = {
+				}
+			}
+			c_prov82 = {
+				color={ 11 39 52 }
+				color2={ 31 59 52 }
+				
+				b_prov82 = {
+				}
+			}
+			c_prov83 = {
+				color={ 108 45 36 }
+				color2={ 108 65 56 }
+				
+				b_prov83 = {
+				}
+			}
+		}
+	}
+	k_kingdom5 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy20 = {
+			color={ 252 175 13 }
+			color2={ 252 125 13 }
+			
+			c_prov97 = {
+				color={ 152 81 199 }
+				color2={ 172 101 199 }
+				
+				b_prov97 = {
+				}
+			}
+			c_prov98 = {
+				color={ 252 125 13 }
+				color2={ 252 145 33 }
+				
+				b_prov98 = {
+				}
+			}
+			c_prov104 = {
+				color={ 251 226 12 }
+				color2={ 251 206 32 }
+				
+				b_prov104 = {
+				}
+			}
+		}
+		d_duchy21 = {
+			color={ 164 103 116 }
+			color2={ 114 103 116 }
+			
+			c_prov84 = {
+				color={ 114 103 116 }
+				color2={ 134 123 116 }
+				
+				b_prov84 = {
+				}
+			}
+			c_prov95 = {
+				color={ 193 179 182 }
+				color2={ 193 159 162 }
+				
+				b_prov95 = {
+				}
+			}
+			c_prov96 = {
+				color={ 209 213 212 }
+				color2={ 189 213 192 }
+				
+				b_prov96 = {
+				}
+			}
+		}
+		d_duchy22 = {
+			color={ 138 199 151 }
+			color2={ 138 149 151 }
+			
+			c_prov85 = {
+				color={ 56 62 86 }
+				color2={ 76 82 86 }
+				
+				b_prov85 = {
+				}
+			}
+			c_prov86 = {
+				color={ 36 30 38 }
+				color2={ 36 50 58 }
+				
+				b_prov86 = {
+				}
+			}
+			c_prov87 = {
+				color={ 138 149 151 }
+				color2={ 158 169 151 }
+				
+				b_prov87 = {
+				}
+			}
+			c_prov88 = {
+				color={ 71 64 46 }
+				color2={ 71 84 66 }
+				
+				b_prov88 = {
+				}
+			}
+		}
+		d_duchy23 = {
+			color={ 187 172 118 }
+			color2={ 137 172 118 }
+			
+			c_prov89 = {
+				color={ 132 195 190 }
+				color2={ 152 195 170 }
+				
+				b_prov89 = {
+				}
+			}
+			c_prov90 = {
+				color={ 137 172 118 }
+				color2={ 157 172 138 }
+				
+				b_prov90 = {
+				}
+			}
+			c_prov91 = {
+				color={ 35 26 36 }
+				color2={ 55 46 36 }
+				
+				b_prov91 = {
+				}
+			}
+			c_prov92 = {
+				color={ 112 83 53 }
+				color2={ 112 103 73 }
+				
+				b_prov92 = {
+				}
+			}
+		}
+		d_duchy24 = {
+			color={ 99 108 52 }
+			color2={ 99 58 52 }
+			
+			c_prov93 = {
+				color={ 230 214 144 }
+				color2={ 230 194 164 }
+				
+				b_prov93 = {
+				}
+			}
+			c_prov94 = {
+				color={ 130 108 52 }
+				color2={ 130 128 72 }
+				
+				b_prov94 = {
+				}
+			}
+			c_prov99 = {
+				color={ 99 58 52 }
+				color2={ 99 78 72 }
+				
+				b_prov99 = {
+				}
+			}
+		}
+		d_duchy25 = {
+			color={ 57 103 42 }
+			color2={ 57 53 42 }
+			
+			c_prov100 = {
+				color={ 143 143 143 }
+				color2={ 163 143 163 }
+				
+				b_prov100 = {
+				}
+			}
+			c_prov101 = {
+				color={ 57 53 42 }
+				color2={ 57 73 62 }
+				
+				b_prov101 = {
+				}
+			}
+			c_prov102 = {
+				color={ 150 104 77 }
+				color2={ 150 124 97 }
+				
+				b_prov102 = {
+				}
+			}
+			c_prov103 = {
+				color={ 201 160 83 }
+				color2={ 201 140 103 }
+				
+				b_prov103 = {
+				}
+			}
+		}
+	}
+	k_kingdom6 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy26 = {
+			color={ 7 64 44 }
+			color2={ 7 14 44 }
+			
+			c_prov106 = {
+				color={ 46 207 51 }
+				color2={ 66 207 71 }
+				
+				b_prov106 = {
+				}
+			}
+			c_prov107 = {
+				color={ 7 14 44 }
+				color2={ 27 34 44 }
+				
+				b_prov107 = {
+				}
+			}
+			c_prov108 = {
+				color={ 7 131 177 }
+				color2={ 27 151 177 }
+				
+				b_prov108 = {
+				}
+			}
+			c_prov109 = {
+				color={ 11 80 111 }
+				color2={ 31 100 111 }
+				
+				b_prov109 = {
+				}
+			}
+		}
+		d_duchy27 = {
+			color={ 11 99 75 }
+			color2={ 11 49 75 }
+			
+			c_prov105 = {
+				color={ 11 49 75 }
+				color2={ 31 69 75 }
+				
+				b_prov105 = {
+				}
+			}
+			c_prov110 = {
+				color={ 32 146 91 }
+				color2={ 52 146 111 }
+				
+				b_prov110 = {
+				}
+			}
+			c_prov111 = {
+				color={ 149 182 169 }
+				color2={ 169 182 149 }
+				
+				b_prov111 = {
+				}
+			}
+		}
+		d_duchy28 = {
+			color={ 232 158 112 }
+			color2={ 232 208 112 }
+			
+			c_prov112 = {
+				color={ 218 78 57 }
+				color2={ 218 98 77 }
+				
+				b_prov112 = {
+				}
+			}
+			c_prov113 = {
+				color={ 5 93 91 }
+				color2={ 25 93 111 }
+				
+				b_prov113 = {
+				}
+			}
+			c_prov114 = {
+				color={ 232 208 112 }
+				color2={ 232 188 132 }
+				
+				b_prov114 = {
+				}
+			}
+		}
+		d_duchy29 = {
+			color={ 59 128 123 }
+			color2={ 59 128 73 }
+			
+			c_prov141 = {
+				color={ 60 79 50 }
+				color2={ 80 79 70 }
+				
+				b_prov141 = {
+				}
+			}
+			c_prov142 = {
+				color={ 175 218 156 }
+				color2={ 155 218 136 }
+				
+				b_prov142 = {
+				}
+			}
+			c_prov143 = {
+				color={ 59 128 73 }
+				color2={ 79 128 93 }
+				
+				b_prov143 = {
+				}
+			}
+			c_prov144 = {
+				color={ 220 119 62 }
+				color2={ 220 139 82 }
+				
+				b_prov144 = {
+				}
+			}
+			c_prov145 = {
+				color={ 247 244 146 }
+				color2={ 247 224 166 }
+				
+				b_prov145 = {
+				}
+			}
+		}
+		d_duchy30 = {
+			color={ 67 127 80 }
+			color2={ 67 77 80 }
+			
+			c_prov146 = {
+				color={ 101 119 88 }
+				color2={ 121 119 108 }
+				
+				b_prov146 = {
+				}
+			}
+			c_prov147 = {
+				color={ 205 190 66 }
+				color2={ 205 170 86 }
+				
+				b_prov147 = {
+				}
+			}
+			c_prov148 = {
+				color={ 49 42 51 }
+				color2={ 69 62 51 }
+				
+				b_prov148 = {
+				}
+			}
+			c_prov149 = {
+				color={ 67 77 80 }
+				color2={ 87 97 80 }
+				
+				b_prov149 = {
+				}
+			}
+		}
+	}
+}
+e_empire3 = {
+	color={ 170 20 170 }
+	color2={ 255 255 0 }
+	
+	k_kingdom7 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy31 = {
+			color={ 110 72 127 }
+			color2={ 110 72 77 }
+			
+			c_prov129 = {
+				color={ 110 72 77 }
+				color2={ 110 92 97 }
+				
+				b_prov129 = {
+				}
+			}
+			c_prov130 = {
+				color={ 70 89 89 }
+				color2={ 90 109 89 }
+				
+				b_prov130 = {
+				}
+			}
+			c_prov131 = {
+				color={ 11 118 94 }
+				color2={ 31 118 114 }
+				
+				b_prov131 = {
+				}
+			}
+			c_prov161 = {
+				color={ 54 158 141 }
+				color2={ 74 158 161 }
+				
+				b_prov161 = {
+				}
+			}
+		}
+		d_duchy32 = {
+			color={ 15 124 99 }
+			color2={ 15 74 99 }
+			
+			c_prov132 = {
+				color={ 15 74 99 }
+				color2={ 35 94 99 }
+				
+				b_prov132 = {
+				}
+			}
+			c_prov133 = {
+				color={ 248 198 52 }
+				color2={ 248 178 72 }
+				
+				b_prov133 = {
+				}
+			}
+			c_prov134 = {
+				color={ 40 197 196 }
+				color2={ 60 197 176 }
+				
+				b_prov134 = {
+				}
+			}
+			c_prov135 = {
+				color={ 68 114 100 }
+				color2={ 88 114 120 }
+				
+				b_prov135 = {
+				}
+			}
+			c_prov136 = {
+				color={ 74 95 112 }
+				color2={ 94 115 112 }
+				
+				b_prov136 = {
+				}
+			}
+		}
+		d_duchy33 = {
+			color={ 225 183 130 }
+			color2={ 225 133 130 }
+			
+			c_prov137 = {
+				color={ 56 125 143 }
+				color2={ 76 145 143 }
+				
+				b_prov137 = {
+				}
+			}
+			c_prov138 = {
+				color={ 251 180 29 }
+				color2={ 251 160 49 }
+				
+				b_prov138 = {
+				}
+			}
+			c_prov139 = {
+				color={ 81 87 94 }
+				color2={ 101 107 94 }
+				
+				b_prov139 = {
+				}
+			}
+			c_prov140 = {
+				color={ 225 133 130 }
+				color2={ 225 153 150 }
+				
+				b_prov140 = {
+				}
+			}
+		}
+	}
+	k_kingdom8 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy34 = {
+			color={ 17 80 42 }
+			color2={ 17 30 42 }
+			
+			c_prov150 = {
+				color={ 109 148 141 }
+				color2={ 129 148 161 }
+				
+				b_prov150 = {
+				}
+			}
+			c_prov151 = {
+				color={ 17 30 42 }
+				color2={ 37 50 42 }
+				
+				b_prov151 = {
+				}
+			}
+			c_prov152 = {
+				color={ 79 121 135 }
+				color2={ 99 141 135 }
+				
+				b_prov152 = {
+				}
+			}
+			c_prov153 = {
+				color={ 147 167 56 }
+				color2={ 167 167 76 }
+				
+				b_prov153 = {
+				}
+			}
+		}
+		d_duchy35 = {
+			color={ 219 124 186 }
+			color2={ 219 124 136 }
+			
+			c_prov154 = {
+				color={ 219 124 136 }
+				color2={ 219 144 156 }
+				
+				b_prov154 = {
+				}
+			}
+			c_prov155 = {
+				color={ 238 217 118 }
+				color2={ 238 197 138 }
+				
+				b_prov155 = {
+				}
+			}
+			c_prov156 = {
+				color={ 157 117 82 }
+				color2={ 157 137 102 }
+				
+				b_prov156 = {
+				}
+			}
+			c_prov157 = {
+				color={ 109 126 82 }
+				color2={ 129 126 102 }
+				
+				b_prov157 = {
+				}
+			}
+		}
+		d_duchy36 = {
+			color={ 24 97 64 }
+			color2={ 24 47 64 }
+			
+			c_prov158 = {
+				color={ 253 206 179 }
+				color2={ 253 186 159 }
+				
+				b_prov158 = {
+				}
+			}
+			c_prov159 = {
+				color={ 153 155 89 }
+				color2={ 173 155 109 }
+				
+				b_prov159 = {
+				}
+			}
+			c_prov160 = {
+				color={ 24 47 64 }
+				color2={ 44 67 64 }
+				
+				b_prov160 = {
+				}
+			}
+		}
+	}
+}
+e_empire4 = {
+	color={ 170 20 170 }
+	color2={ 255 255 0 }
+	
+	k_kingdom9 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy37 = {
+			color={ 117 167 121 }
+			color2={ 117 117 121 }
+			
+			c_prov115 = {
+				color={ 229 179 91 }
+				color2={ 229 149 111 }
+				
+				b_prov115 = {
+				}
+			}
+			c_prov116 = {
+				color={ 69 48 61 }
+				color2={ 69 68 81 }
+				
+				b_prov116 = {
+				}
+			}
+			c_prov117 = {
+				color={ 117 117 121 }
+				color2={ 137 137 121 }
+				
+				b_prov117 = {
+				}
+			}
+		}
+		d_duchy38 = {
+			color={ 81 29 244 }
+			color2={ 31 29 244 }
+			
+			c_prov118 = {
+				color={ 126 141 115 }
+				color2={ 146 141 135 }
+				
+				b_prov118 = {
+				}
+			}
+			c_prov119 = {
+				color={ 31 29 244 }
+				color2={ 51 49 244 }
+				
+				b_prov119 = {
+				}
+			}
+			c_prov120 = {
+				color={ 20 23 141 }
+				color2={ 40 43 141 }
+				
+				b_prov120 = {
+				}
+			}
+		}
+		d_duchy39 = {
+			color={ 104 83 52 }
+			color2={ 54 83 52 }
+			
+			c_prov121 = {
+				color={ 131 92 58 }
+				color2={ 131 112 78 }
+				
+				b_prov121 = {
+				}
+			}
+			c_prov122 = {
+				color={ 175 217 62 }
+				color2={ 155 217 82 }
+				
+				b_prov122 = {
+				}
+			}
+			c_prov123 = {
+				color={ 32 29 27 }
+				color2={ 32 49 47 }
+				
+				b_prov123 = {
+				}
+			}
+			c_prov124 = {
+				color={ 54 83 52 }
+				color2={ 74 83 72 }
+				
+				b_prov124 = {
+				}
+			}
+		}
+		d_duchy40 = {
+			color={ 240 243 32 }
+			color2={ 190 243 32 }
+			
+			c_prov125 = {
+				color={ 199 105 33 }
+				color2={ 199 125 53 }
+				
+				b_prov125 = {
+				}
+			}
+			c_prov126 = {
+				color={ 117 169 92 }
+				color2={ 137 169 112 }
+				
+				b_prov126 = {
+				}
+			}
+			c_prov127 = {
+				color={ 240 243 32 }
+				color2={ 220 243 52 }
+				
+				b_prov127 = {
+				}
+			}
+			c_prov128 = {
+				color={ 28 32 53 }
+				color2={ 48 52 53 }
+				
+				b_prov128 = {
+				}
+			}
+		}
+	}
+	k_kingdom10 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy41 = {
+			color={ 6 122 119 }
+			color2={ 6 72 119 }
+			
+			c_prov162 = {
+				color={ 223 74 75 }
+				color2={ 223 94 95 }
+				
+				b_prov162 = {
+				}
+			}
+			c_prov163 = {
+				color={ 231 226 219 }
+				color2={ 231 206 199 }
+				
+				b_prov163 = {
+				}
+			}
+			c_prov164 = {
+				color={ 77 74 86 }
+				color2={ 97 94 86 }
+				
+				b_prov164 = {
+				}
+			}
+			c_prov165 = {
+				color={ 6 72 119 }
+				color2={ 26 92 119 }
+				
+				b_prov165 = {
+				}
+			}
+			c_prov166 = {
+				color={ 8 103 137 }
+				color2={ 28 123 137 }
+				
+				b_prov166 = {
+				}
+			}
+		}
+		d_duchy42 = {
+			color={ 80 24 36 }
+			color2={ 30 24 36 }
+			
+			c_prov167 = {
+				color={ 56 158 130 }
+				color2={ 76 158 150 }
+				
+				b_prov167 = {
+				}
+			}
+			c_prov168 = {
+				color={ 6 97 140 }
+				color2={ 26 117 140 }
+				
+				b_prov168 = {
+				}
+			}
+			c_prov169 = {
+				color={ 30 24 36 }
+				color2={ 50 44 36 }
+				
+				b_prov169 = {
+				}
+			}
+		}
+		d_duchy43 = {
+			color={ 66 110 57 }
+			color2={ 66 60 57 }
+			
+			c_prov170 = {
+				color={ 168 86 91 }
+				color2={ 168 106 111 }
+				
+				b_prov170 = {
+				}
+			}
+			c_prov171 = {
+				color={ 66 60 57 }
+				color2={ 66 80 77 }
+				
+				b_prov171 = {
+				}
+			}
+			c_prov172 = {
+				color={ 145 151 127 }
+				color2={ 165 151 147 }
+				
+				b_prov172 = {
+				}
+			}
+			c_prov173 = {
+				color={ 84 183 197 }
+				color2={ 104 163 197 }
+				
+				b_prov173 = {
+				}
+			}
+		}
+		d_duchy44 = {
+			color={ 49 101 85 }
+			color2={ 49 51 85 }
+			
+			c_prov174 = {
+				color={ 49 51 85 }
+				color2={ 69 71 85 }
+				
+				b_prov174 = {
+				}
+			}
+			c_prov175 = {
+				color={ 18 97 115 }
+				color2={ 38 117 115 }
+				
+				b_prov175 = {
+				}
+			}
+			c_prov176 = {
+				color={ 219 235 102 }
+				color2={ 199 235 122 }
+				
+				b_prov176 = {
+				}
+			}
+			c_prov177 = {
+				color={ 240 90 75 }
+				color2={ 240 110 95 }
+				
+				b_prov177 = {
+				}
+			}
+		}
+		d_duchy45 = {
+			color={ 40 115 128 }
+			color2={ 40 115 78 }
+			
+			c_prov201 = {
+				color={ 129 84 41 }
+				color2={ 129 104 61 }
+				
+				b_prov201 = {
+				}
+			}
+			c_prov202 = {
+				color={ 108 96 122 }
+				color2={ 128 116 122 }
+				
+				b_prov202 = {
+				}
+			}
+			c_prov203 = {
+				color={ 40 115 78 }
+				color2={ 60 115 98 }
+				
+				b_prov203 = {
+				}
+			}
+			c_prov204 = {
+				color={ 58 85 130 }
+				color2={ 78 105 130 }
+				
+				b_prov204 = {
+				}
+			}
+		}
+		d_duchy46 = {
+			color={ 197 190 59 }
+			color2={ 197 140 59 }
+			
+			c_prov205 = {
+				color={ 216 44 17 }
+				color2={ 216 64 37 }
+				
+				b_prov205 = {
+				}
+			}
+			c_prov206 = {
+				color={ 233 243 234 }
+				color2={ 213 243 214 }
+				
+				b_prov206 = {
+				}
+			}
+			c_prov207 = {
+				color={ 197 140 59 }
+				color2={ 197 160 79 }
+				
+				b_prov207 = {
+				}
+			}
+			c_prov208 = {
+				color={ 229 198 197 }
+				color2={ 229 178 177 }
+				
+				b_prov208 = {
+				}
+			}
+		}
+	}
+	k_kingdom11 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy47 = {
+			color={ 224 52 117 }
+			color2={ 224 52 67 }
+			
+			c_prov178 = {
+				color={ 224 204 103 }
+				color2={ 224 184 123 }
+				
+				b_prov178 = {
+				}
+			}
+			c_prov179 = {
+				color={ 242 217 34 }
+				color2={ 242 197 54 }
+				
+				b_prov179 = {
+				}
+			}
+			c_prov180 = {
+				color={ 224 52 67 }
+				color2={ 224 72 87 }
+				
+				b_prov180 = {
+				}
+			}
+		}
+		d_duchy48 = {
+			color={ 248 195 158 }
+			color2={ 248 245 158 }
+			
+			c_prov181 = {
+				color={ 250 126 25 }
+				color2={ 250 146 45 }
+				
+				b_prov181 = {
+				}
+			}
+			c_prov182 = {
+				color={ 75 112 97 }
+				color2={ 95 112 117 }
+				
+				b_prov182 = {
+				}
+			}
+			c_prov183 = {
+				color={ 103 206 100 }
+				color2={ 123 206 120 }
+				
+				b_prov183 = {
+				}
+			}
+			c_prov184 = {
+				color={ 248 245 158 }
+				color2={ 248 225 178 }
+				
+				b_prov184 = {
+				}
+			}
+		}
+		d_duchy49 = {
+			color={ 254 202 239 }
+			color2={ 254 252 239 }
+			
+			c_prov185 = {
+				color={ 97 201 200 }
+				color2={ 117 201 180 }
+				
+				b_prov185 = {
+				}
+			}
+			c_prov186 = {
+				color={ 71 58 11 }
+				color2={ 71 78 31 }
+				
+				b_prov186 = {
+				}
+			}
+			c_prov187 = {
+				color={ 146 212 130 }
+				color2={ 166 212 150 }
+				
+				b_prov187 = {
+				}
+			}
+			c_prov188 = {
+				color={ 76 108 71 }
+				color2={ 96 108 91 }
+				
+				b_prov188 = {
+				}
+			}
+			c_prov189 = {
+				color={ 254 252 239 }
+				color2={ 254 232 219 }
+				
+				b_prov189 = {
+				}
+			}
+		}
+		d_duchy50 = {
+			color={ 219 154 72 }
+			color2={ 219 104 72 }
+			
+			c_prov191 = {
+				color={ 219 104 72 }
+				color2={ 219 124 92 }
+				
+				b_prov191 = {
+				}
+			}
+			c_prov192 = {
+				color={ 54 172 181 }
+				color2={ 74 152 181 }
+				
+				b_prov192 = {
+				}
+			}
+			c_prov193 = {
+				color={ 231 188 130 }
+				color2={ 231 168 150 }
+				
+				b_prov193 = {
+				}
+			}
+			c_prov194 = {
+				color={ 245 211 98 }
+				color2={ 245 191 118 }
+				
+				b_prov194 = {
+				}
+			}
+		}
+		d_duchy51 = {
+			color={ 34 111 92 }
+			color2={ 34 61 92 }
+			
+			c_prov190 = {
+				color={ 182 206 188 }
+				color2={ 162 206 168 }
+				
+				b_prov190 = {
+				}
+			}
+			c_prov195 = {
+				color={ 69 195 147 }
+				color2={ 89 195 167 }
+				
+				b_prov195 = {
+				}
+			}
+			c_prov196 = {
+				color={ 34 61 92 }
+				color2={ 54 81 92 }
+				
+				b_prov196 = {
+				}
+			}
+			c_prov197 = {
+				color={ 28 49 55 }
+				color2={ 48 69 55 }
+				
+				b_prov197 = {
+				}
+			}
+		}
+		d_duchy52 = {
+			color={ 174 127 82 }
+			color2={ 124 127 82 }
+			
+			c_prov198 = {
+				color={ 232 164 150 }
+				color2={ 232 144 170 }
+				
+				b_prov198 = {
+				}
+			}
+			c_prov199 = {
+				color={ 234 218 127 }
+				color2={ 234 198 147 }
+				
+				b_prov199 = {
+				}
+			}
+			c_prov200 = {
+				color={ 124 127 82 }
+				color2={ 144 127 102 }
+				
+				b_prov200 = {
+				}
+			}
+		}
+	}
+	k_kingdom12 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy53 = {
+			color={ 60 118 79 }
+			color2={ 60 68 79 }
+			
+			c_prov209 = {
+				color={ 243 101 50 }
+				color2={ 243 121 70 }
+				
+				b_prov209 = {
+				}
+			}
+			c_prov210 = {
+				color={ 228 200 56 }
+				color2={ 228 180 76 }
+				
+				b_prov210 = {
+				}
+			}
+			c_prov211 = {
+				color={ 60 68 79 }
+				color2={ 80 88 79 }
+				
+				b_prov211 = {
+				}
+			}
+			c_prov212 = {
+				color={ 156 162 105 }
+				color2={ 136 162 125 }
+				
+				b_prov212 = {
+				}
+			}
+		}
+		d_duchy54 = {
+			color={ 41 102 57 }
+			color2={ 41 52 57 }
+			
+			c_prov213 = {
+				color={ 58 76 84 }
+				color2={ 78 96 84 }
+				
+				b_prov213 = {
+				}
+			}
+			c_prov214 = {
+				color={ 39 75 131 }
+				color2={ 59 95 131 }
+				
+				b_prov214 = {
+				}
+			}
+			c_prov215 = {
+				color={ 41 52 57 }
+				color2={ 61 72 57 }
+				
+				b_prov215 = {
+				}
+			}
+			c_prov216 = {
+				color={ 199 191 103 }
+				color2={ 199 171 123 }
+				
+				b_prov216 = {
+				}
+			}
+		}
+		d_duchy55 = {
+			color={ 108 139 169 }
+			color2={ 108 139 119 }
+			
+			c_prov217 = {
+				color={ 61 117 92 }
+				color2={ 81 117 112 }
+				
+				b_prov217 = {
+				}
+			}
+			c_prov218 = {
+				color={ 167 137 86 }
+				color2={ 167 157 106 }
+				
+				b_prov218 = {
+				}
+			}
+			c_prov219 = {
+				color={ 108 139 119 }
+				color2={ 128 139 139 }
+				
+				b_prov219 = {
+				}
+			}
+		}
+		d_duchy56 = {
+			color={ 244 185 72 }
+			color2={ 244 135 72 }
+			
+			c_prov220 = {
+				color={ 244 135 72 }
+				color2={ 244 155 92 }
+				
+				b_prov220 = {
+				}
+			}
+			c_prov221 = {
+				color={ 45 61 64 }
+				color2={ 65 81 64 }
+				
+				b_prov221 = {
+				}
+			}
+			c_prov222 = {
+				color={ 94 177 166 }
+				color2={ 114 177 146 }
+				
+				b_prov222 = {
+				}
+			}
+		}
+		d_duchy57 = {
+			color={ 179 171 103 }
+			color2={ 179 121 103 }
+			
+			c_prov223 = {
+				color={ 194 167 125 }
+				color2={ 194 147 145 }
+				
+				b_prov223 = {
+				}
+			}
+			c_prov224 = {
+				color={ 179 121 103 }
+				color2={ 179 141 123 }
+				
+				b_prov224 = {
+				}
+			}
+			c_prov225 = {
+				color={ 251 242 225 }
+				color2={ 251 222 205 }
+				
+				b_prov225 = {
+				}
+			}
+		}
+	}
+}
+e_empire5 = {
+	color={ 170 20 170 }
+	color2={ 255 255 0 }
+	
+	k_kingdom13 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy58 = {
+			color={ 39 94 47 }
+			color2={ 39 44 47 }
+			
+			c_prov226 = {
+				color={ 122 133 91 }
+				color2={ 142 133 111 }
+				
+				b_prov226 = {
+				}
+			}
+			c_prov227 = {
+				color={ 193 194 136 }
+				color2={ 173 194 156 }
+				
+				b_prov227 = {
+				}
+			}
+			c_prov228 = {
+				color={ 39 44 47 }
+				color2={ 59 64 47 }
+				
+				b_prov228 = {
+				}
+			}
+			c_prov229 = {
+				color={ 221 183 85 }
+				color2={ 221 163 105 }
+				
+				b_prov229 = {
+				}
+			}
+			c_prov230 = {
+				color={ 43 89 109 }
+				color2={ 63 109 109 }
+				
+				b_prov230 = {
+				}
+			}
+			c_prov231 = {
+				color={ 68 35 41 }
+				color2={ 68 55 61 }
+				
+				b_prov231 = {
+				}
+			}
+		}
+		d_duchy59 = {
+			color={ 55 32 90 }
+			color2={ 55 32 40 }
+			
+			c_prov232 = {
+				color={ 55 32 40 }
+				color2={ 55 52 60 }
+				
+				b_prov232 = {
+				}
+			}
+			c_prov233 = {
+				color={ 224 242 248 }
+				color2={ 204 222 248 }
+				
+				b_prov233 = {
+				}
+			}
+			c_prov234 = {
+				color={ 109 171 149 }
+				color2={ 129 171 169 }
+				
+				b_prov234 = {
+				}
+			}
+		}
+		d_duchy60 = {
+			color={ 59 135 203 }
+			color2={ 59 185 203 }
+			
+			c_prov235 = {
+				color={ 126 160 47 }
+				color2={ 146 160 67 }
+				
+				b_prov235 = {
+				}
+			}
+			c_prov236 = {
+				color={ 26 27 29 }
+				color2={ 46 47 29 }
+				
+				b_prov236 = {
+				}
+			}
+			c_prov237 = {
+				color={ 59 185 203 }
+				color2={ 79 165 203 }
+				
+				b_prov237 = {
+				}
+			}
+		}
+		d_duchy61 = {
+			color={ 32 83 50 }
+			color2={ 32 33 50 }
+			
+			c_prov238 = {
+				color={ 88 42 31 }
+				color2={ 88 62 51 }
+				
+				b_prov238 = {
+				}
+			}
+			c_prov239 = {
+				color={ 32 33 50 }
+				color2={ 52 53 50 }
+				
+				b_prov239 = {
+				}
+			}
+			c_prov240 = {
+				color={ 210 197 78 }
+				color2={ 210 177 98 }
+				
+				b_prov240 = {
+				}
+			}
+		}
+		d_duchy62 = {
+			color={ 231 133 170 }
+			color2={ 231 183 170 }
+			
+			c_prov241 = {
+				color={ 211 112 138 }
+				color2={ 211 132 158 }
+				
+				b_prov241 = {
+				}
+			}
+			c_prov242 = {
+				color={ 91 77 77 }
+				color2={ 91 97 97 }
+				
+				b_prov242 = {
+				}
+			}
+			c_prov243 = {
+				color={ 231 183 170 }
+				color2={ 231 163 150 }
+				
+				b_prov243 = {
+				}
+			}
+			c_prov244 = {
+				color={ 199 125 46 }
+				color2={ 199 145 66 }
+				
+				b_prov244 = {
+				}
+			}
+			c_prov245 = {
+				color={ 41 43 41 }
+				color2={ 61 43 61 }
+				
+				b_prov245 = {
+				}
+			}
+		}
+	}
+	k_kingdom14 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy63 = {
+			color={ 195 52 122 }
+			color2={ 195 52 72 }
+			
+			c_prov246 = {
+				color={ 52 84 85 }
+				color2={ 72 104 85 }
+				
+				b_prov246 = {
+				}
+			}
+			c_prov247 = {
+				color={ 195 52 72 }
+				color2={ 195 72 92 }
+				
+				b_prov247 = {
+				}
+			}
+			c_prov248 = {
+				color={ 219 149 67 }
+				color2={ 219 169 87 }
+				
+				b_prov248 = {
+				}
+			}
+			c_prov249 = {
+				color={ 45 43 46 }
+				color2={ 65 63 46 }
+				
+				b_prov249 = {
+				}
+			}
+		}
+		d_duchy64 = {
+			color={ 123 101 211 }
+			color2={ 173 101 211 }
+			
+			c_prov250 = {
+				color={ 222 168 73 }
+				color2={ 222 148 93 }
+				
+				b_prov250 = {
+				}
+			}
+			c_prov251 = {
+				color={ 52 134 83 }
+				color2={ 72 134 103 }
+				
+				b_prov251 = {
+				}
+			}
+			c_prov252 = {
+				color={ 185 32 46 }
+				color2={ 185 52 66 }
+				
+				b_prov252 = {
+				}
+			}
+			c_prov253 = {
+				color={ 173 101 211 }
+				color2={ 153 121 211 }
+				
+				b_prov253 = {
+				}
+			}
+			c_prov254 = {
+				color={ 236 234 222 }
+				color2={ 236 214 202 }
+				
+				b_prov254 = {
+				}
+			}
+		}
+		d_duchy65 = {
+			color={ 34 117 108 }
+			color2={ 34 117 58 }
+			
+			c_prov255 = {
+				color={ 192 208 95 }
+				color2={ 172 208 115 }
+				
+				b_prov255 = {
+				}
+			}
+			c_prov256 = {
+				color={ 34 117 58 }
+				color2={ 54 117 78 }
+				
+				b_prov256 = {
+				}
+			}
+			c_prov257 = {
+				color={ 89 83 78 }
+				color2={ 89 103 98 }
+				
+				b_prov257 = {
+				}
+			}
+			c_prov258 = {
+				color={ 161 171 144 }
+				color2={ 141 171 164 }
+				
+				b_prov258 = {
+				}
+			}
+		}
+		d_duchy66 = {
+			color={ 149 123 23 }
+			color2={ 99 123 23 }
+			
+			c_prov259 = {
+				color={ 205 63 61 }
+				color2={ 205 83 81 }
+				
+				b_prov259 = {
+				}
+			}
+			c_prov260 = {
+				color={ 120 130 141 }
+				color2={ 140 150 141 }
+				
+				b_prov260 = {
+				}
+			}
+			c_prov261 = {
+				color={ 45 39 45 }
+				color2={ 45 59 65 }
+				
+				b_prov261 = {
+				}
+			}
+			c_prov262 = {
+				color={ 99 123 23 }
+				color2={ 119 123 43 }
+				
+				b_prov262 = {
+				}
+			}
+		}
+	}
+	k_kingdom15 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy67 = {
+			color={ 51 146 122 }
+			color2={ 51 96 122 }
+			
+			c_prov263 = {
+				color={ 51 96 122 }
+				color2={ 71 116 122 }
+				
+				b_prov263 = {
+				}
+			}
+			c_prov268 = {
+				color={ 47 57 90 }
+				color2={ 67 77 90 }
+				
+				b_prov268 = {
+				}
+			}
+			c_prov269 = {
+				color={ 50 60 60 }
+				color2={ 70 80 60 }
+				
+				b_prov269 = {
+				}
+			}
+		}
+		d_duchy68 = {
+			color={ 37 97 101 }
+			color2={ 37 97 51 }
+			
+			c_prov264 = {
+				color={ 189 227 240 }
+				color2={ 169 207 240 }
+				
+				b_prov264 = {
+				}
+			}
+			c_prov265 = {
+				color={ 37 97 51 }
+				color2={ 57 97 71 }
+				
+				b_prov265 = {
+				}
+			}
+			c_prov266 = {
+				color={ 21 31 33 }
+				color2={ 41 51 33 }
+				
+				b_prov266 = {
+				}
+			}
+			c_prov267 = {
+				color={ 122 159 174 }
+				color2={ 142 139 174 }
+				
+				b_prov267 = {
+				}
+			}
+		}
+		d_duchy69 = {
+			color={ 249 59 114 }
+			color2={ 249 59 64 }
+			
+			c_prov270 = {
+				color={ 249 123 81 }
+				color2={ 249 143 101 }
+				
+				b_prov270 = {
+				}
+			}
+			c_prov271 = {
+				color={ 249 59 64 }
+				color2={ 249 79 84 }
+				
+				b_prov271 = {
+				}
+			}
+			c_prov283 = {
+				color={ 236 218 160 }
+				color2={ 236 198 140 }
+				
+				b_prov283 = {
+				}
+			}
+		}
+		d_duchy70 = {
+			color={ 209 103 174 }
+			color2={ 209 103 124 }
+			
+			c_prov272 = {
+				color={ 181 182 62 }
+				color2={ 161 182 82 }
+				
+				b_prov272 = {
+				}
+			}
+			c_prov273 = {
+				color={ 200 149 49 }
+				color2={ 200 169 69 }
+				
+				b_prov273 = {
+				}
+			}
+			c_prov279 = {
+				color={ 27 127 82 }
+				color2={ 47 127 102 }
+				
+				b_prov279 = {
+				}
+			}
+			c_prov280 = {
+				color={ 209 103 124 }
+				color2={ 209 123 144 }
+				
+				b_prov280 = {
+				}
+			}
+		}
+		d_duchy71 = {
+			color={ 249 166 121 }
+			color2={ 249 216 121 }
+			
+			c_prov281 = {
+				color={ 249 216 121 }
+				color2={ 249 196 141 }
+				
+				b_prov281 = {
+				}
+			}
+			c_prov282 = {
+				color={ 106 179 153 }
+				color2={ 126 179 173 }
+				
+				b_prov282 = {
+				}
+			}
+			c_prov284 = {
+				color={ 72 128 126 }
+				color2={ 92 128 146 }
+				
+				b_prov284 = {
+				}
+			}
+			c_prov285 = {
+				color={ 243 71 82 }
+				color2={ 243 91 102 }
+				
+				b_prov285 = {
+				}
+			}
+		}
+	}
+}
+e_empire6 = {
+	color={ 170 20 170 }
+	color2={ 255 255 0 }
+	
+	k_kingdom16 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy72 = {
+			color={ 57 7 25 }
+			color2={ 7 7 25 }
+			
+			c_prov274 = {
+				color={ 130 202 89 }
+				color2={ 150 202 109 }
+				
+				b_prov274 = {
+				}
+			}
+			c_prov275 = {
+				color={ 85 101 115 }
+				color2={ 105 121 115 }
+				
+				b_prov275 = {
+				}
+			}
+			c_prov276 = {
+				color={ 245 148 106 }
+				color2={ 245 168 126 }
+				
+				b_prov276 = {
+				}
+			}
+			c_prov277 = {
+				color={ 7 7 25 }
+				color2={ 27 27 25 }
+				
+				b_prov277 = {
+				}
+			}
+			c_prov278 = {
+				color={ 98 132 115 }
+				color2={ 118 132 135 }
+				
+				b_prov278 = {
+				}
+			}
+		}
+		d_duchy73 = {
+			color={ 242 139 69 }
+			color2={ 242 189 69 }
+			
+			c_prov286 = {
+				color={ 230 228 231 }
+				color2={ 210 208 231 }
+				
+				b_prov286 = {
+				}
+			}
+			c_prov287 = {
+				color={ 43 172 176 }
+				color2={ 63 152 176 }
+				
+				b_prov287 = {
+				}
+			}
+			c_prov288 = {
+				color={ 242 189 69 }
+				color2={ 242 169 89 }
+				
+				b_prov288 = {
+				}
+			}
+			c_prov289 = {
+				color={ 65 127 89 }
+				color2={ 85 127 109 }
+				
+				b_prov289 = {
+				}
+			}
+			c_prov290 = {
+				color={ 35 67 57 }
+				color2={ 55 67 77 }
+				
+				b_prov290 = {
+				}
+			}
+		}
+	}
+	k_kingdom17 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy74 = {
+			color={ 41 16 89 }
+			color2={ 41 16 39 }
+			
+			c_prov291 = {
+				color={ 243 240 183 }
+				color2={ 243 220 163 }
+				
+				b_prov291 = {
+				}
+			}
+			c_prov292 = {
+				color={ 252 160 99 }
+				color2={ 252 140 119 }
+				
+				b_prov292 = {
+				}
+			}
+			c_prov293 = {
+				color={ 105 122 67 }
+				color2={ 125 122 87 }
+				
+				b_prov293 = {
+				}
+			}
+			c_prov294 = {
+				color={ 41 16 39 }
+				color2={ 41 36 59 }
+				
+				b_prov294 = {
+				}
+			}
+		}
+		d_duchy75 = {
+			color={ 7 138 98 }
+			color2={ 7 88 98 }
+			
+			c_prov296 = {
+				color={ 85 56 74 }
+				color2={ 85 76 94 }
+				
+				b_prov296 = {
+				}
+			}
+			c_prov297 = {
+				color={ 18 179 193 }
+				color2={ 38 159 193 }
+				
+				b_prov297 = {
+				}
+			}
+			c_prov298 = {
+				color={ 236 193 96 }
+				color2={ 236 173 116 }
+				
+				b_prov298 = {
+				}
+			}
+			c_prov299 = {
+				color={ 7 88 98 }
+				color2={ 27 108 98 }
+				
+				b_prov299 = {
+				}
+			}
+		}
+		d_duchy76 = {
+			color={ 118 238 86 }
+			color2={ 168 238 86 }
+			
+			c_prov295 = {
+				color={ 28 33 31 }
+				color2={ 48 33 51 }
+				
+				b_prov295 = {
+				}
+			}
+			c_prov300 = {
+				color={ 230 60 50 }
+				color2={ 230 80 70 }
+				
+				b_prov300 = {
+				}
+			}
+			c_prov301 = {
+				color={ 168 238 86 }
+				color2={ 148 238 106 }
+				
+				b_prov301 = {
+				}
+			}
+			c_prov302 = {
+				color={ 254 106 10 }
+				color2={ 254 126 30 }
+				
+				b_prov302 = {
+				}
+			}
+		}
+	}
+}
+e_empire7 = {
+	color={ 170 20 170 }
+	color2={ 255 255 0 }
+	
+	k_kingdom18 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy77 = {
+			color={ 117 155 178 }
+			color2={ 117 155 128 }
+			
+			c_prov303 = {
+				color={ 59 77 59 }
+				color2={ 79 77 79 }
+				
+				b_prov303 = {
+				}
+			}
+			c_prov304 = {
+				color={ 250 221 174 }
+				color2={ 250 201 154 }
+				
+				b_prov304 = {
+				}
+			}
+			c_prov305 = {
+				color={ 182 194 120 }
+				color2={ 162 194 140 }
+				
+				b_prov305 = {
+				}
+			}
+			c_prov306 = {
+				color={ 231 198 194 }
+				color2={ 231 178 174 }
+				
+				b_prov306 = {
+				}
+			}
+			c_prov307 = {
+				color={ 117 155 128 }
+				color2={ 137 155 148 }
+				
+				b_prov307 = {
+				}
+			}
+		}
+		d_duchy78 = {
+			color={ 226 175 70 }
+			color2={ 226 125 70 }
+			
+			c_prov308 = {
+				color={ 226 125 70 }
+				color2={ 226 145 90 }
+				
+				b_prov308 = {
+				}
+			}
+			c_prov309 = {
+				color={ 68 186 124 }
+				color2={ 88 186 144 }
+				
+				b_prov309 = {
+				}
+			}
+			c_prov310 = {
+				color={ 53 61 70 }
+				color2={ 73 81 70 }
+				
+				b_prov310 = {
+				}
+			}
+			c_prov311 = {
+				color={ 236 215 179 }
+				color2={ 236 195 159 }
+				
+				b_prov311 = {
+				}
+			}
+		}
+		d_duchy79 = {
+			color={ 116 167 64 }
+			color2={ 166 167 64 }
+			
+			c_prov312 = {
+				color={ 27 144 149 }
+				color2={ 47 164 149 }
+				
+				b_prov312 = {
+				}
+			}
+			c_prov313 = {
+				color={ 249 234 175 }
+				color2={ 249 214 155 }
+				
+				b_prov313 = {
+				}
+			}
+			c_prov314 = {
+				color={ 95 53 49 }
+				color2={ 95 73 69 }
+				
+				b_prov314 = {
+				}
+			}
+			c_prov315 = {
+				color={ 166 167 64 }
+				color2={ 146 167 84 }
+				
+				b_prov315 = {
+				}
+			}
+		}
+		d_duchy80 = {
+			color={ 197 114 55 }
+			color2={ 197 164 55 }
+			
+			c_prov316 = {
+				color={ 197 114 55 }
+				color2={ 197 134 75 }
+				
+				b_prov316 = {
+				}
+			}
+			c_prov317 = {
+				color={ 209 191 65 }
+				color2={ 209 171 85 }
+				
+				b_prov317 = {
+				}
+			}
+			c_prov318 = {
+				color={ 170 120 41 }
+				color2={ 170 140 61 }
+				
+				b_prov318 = {
+				}
+			}
+		}
+		d_duchy81 = {
+			color={ 74 115 61 }
+			color2={ 74 65 61 }
+			
+			c_prov319 = {
+				color={ 240 240 208 }
+				color2={ 220 240 188 }
+				
+				b_prov319 = {
+				}
+			}
+			c_prov320 = {
+				color={ 152 215 127 }
+				color2={ 172 215 147 }
+				
+				b_prov320 = {
+				}
+			}
+			c_prov321 = {
+				color={ 16 30 56 }
+				color2={ 36 50 56 }
+				
+				b_prov321 = {
+				}
+			}
+			c_prov322 = {
+				color={ 173 88 73 }
+				color2={ 173 108 93 }
+				
+				b_prov322 = {
+				}
+			}
+			c_prov323 = {
+				color={ 74 65 61 }
+				color2={ 74 85 81 }
+				
+				b_prov323 = {
+				}
+			}
+		}
+	}
+	k_kingdom19 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy82 = {
+			color={ 5 135 86 }
+			color2={ 5 85 86 }
+			
+			c_prov324 = {
+				color={ 100 92 133 }
+				color2={ 120 112 133 }
+				
+				b_prov324 = {
+				}
+			}
+			c_prov325 = {
+				color={ 5 85 86 }
+				color2={ 25 105 86 }
+				
+				b_prov325 = {
+				}
+			}
+			c_prov326 = {
+				color={ 194 30 48 }
+				color2={ 194 50 68 }
+				
+				b_prov326 = {
+				}
+			}
+			c_prov327 = {
+				color={ 176 174 162 }
+				color2={ 176 154 142 }
+				
+				b_prov327 = {
+				}
+			}
+		}
+		d_duchy83 = {
+			color={ 146 176 59 }
+			color2={ 146 126 59 }
+			
+			c_prov328 = {
+				color={ 18 152 143 }
+				color2={ 38 152 163 }
+				
+				b_prov328 = {
+				}
+			}
+			c_prov329 = {
+				color={ 254 235 135 }
+				color2={ 254 215 155 }
+				
+				b_prov329 = {
+				}
+			}
+			c_prov330 = {
+				color={ 146 126 59 }
+				color2={ 146 146 79 }
+				
+				b_prov330 = {
+				}
+			}
+		}
+		d_duchy84 = {
+			color={ 227 44 95 }
+			color2={ 227 44 45 }
+			
+			c_prov331 = {
+				color={ 42 69 102 }
+				color2={ 62 89 102 }
+				
+				b_prov331 = {
+				}
+			}
+			c_prov332 = {
+				color={ 227 44 45 }
+				color2={ 227 64 65 }
+				
+				b_prov332 = {
+				}
+			}
+			c_prov333 = {
+				color={ 9 141 158 }
+				color2={ 29 161 158 }
+				
+				b_prov333 = {
+				}
+			}
+			c_prov334 = {
+				color={ 145 144 87 }
+				color2={ 145 164 107 }
+				
+				b_prov334 = {
+				}
+			}
+			c_prov335 = {
+				color={ 40 120 110 }
+				color2={ 60 120 130 }
+				
+				b_prov335 = {
+				}
+			}
+		}
+		d_duchy85 = {
+			color={ 250 193 226 }
+			color2={ 250 243 226 }
+			
+			c_prov336 = {
+				color={ 250 243 226 }
+				color2={ 250 223 206 }
+				
+				b_prov336 = {
+				}
+			}
+			c_prov337 = {
+				color={ 239 111 109 }
+				color2={ 239 131 129 }
+				
+				b_prov337 = {
+				}
+			}
+			c_prov338 = {
+				color={ 67 61 71 }
+				color2={ 87 81 71 }
+				
+				b_prov338 = {
+				}
+			}
+		}
+		d_duchy86 = {
+			color={ 15 73 26 }
+			color2={ 15 23 26 }
+			
+			c_prov339 = {
+				color={ 85 10 10 }
+				color2={ 85 30 30 }
+				
+				b_prov339 = {
+				}
+			}
+			c_prov340 = {
+				color={ 27 77 98 }
+				color2={ 47 97 98 }
+				
+				b_prov340 = {
+				}
+			}
+			c_prov341 = {
+				color={ 15 23 26 }
+				color2={ 35 43 26 }
+				
+				b_prov341 = {
+				}
+			}
+		}
+		d_duchy87 = {
+			color={ 169 71 128 }
+			color2={ 169 71 78 }
+			
+			c_prov365 = {
+				color={ 87 72 60 }
+				color2={ 87 92 80 }
+				
+				b_prov365 = {
+				}
+			}
+			c_prov366 = {
+				color={ 222 152 69 }
+				color2={ 222 172 89 }
+				
+				b_prov366 = {
+				}
+			}
+			c_prov367 = {
+				color={ 94 194 172 }
+				color2={ 114 194 152 }
+				
+				b_prov367 = {
+				}
+			}
+			c_prov368 = {
+				color={ 32 144 240 }
+				color2={ 52 164 240 }
+				
+				b_prov368 = {
+				}
+			}
+			c_prov369 = {
+				color={ 169 71 78 }
+				color2={ 169 91 98 }
+				
+				b_prov369 = {
+				}
+			}
+		}
+		d_duchy88 = {
+			color={ 38 239 156 }
+			color2={ 38 239 106 }
+			
+			c_prov363 = {
+				color={ 38 239 106 }
+				color2={ 58 239 126 }
+				
+				b_prov363 = {
+				}
+			}
+			c_prov364 = {
+				color={ 105 209 181 }
+				color2={ 125 209 161 }
+				
+				b_prov364 = {
+				}
+			}
+			c_prov370 = {
+				color={ 221 223 120 }
+				color2={ 201 223 140 }
+				
+				b_prov370 = {
+				}
+			}
+			c_prov371 = {
+				color={ 242 185 71 }
+				color2={ 242 165 91 }
+				
+				b_prov371 = {
+				}
+			}
+		}
+	}
+	k_kingdom20 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy89 = {
+			color={ 253 144 32 }
+			color2={ 253 194 32 }
+			
+			c_prov342 = {
+				color={ 47 155 138 }
+				color2={ 67 155 158 }
+				
+				b_prov342 = {
+				}
+			}
+			c_prov343 = {
+				color={ 85 88 84 }
+				color2={ 105 88 104 }
+				
+				b_prov343 = {
+				}
+			}
+			c_prov344 = {
+				color={ 253 194 32 }
+				color2={ 253 174 52 }
+				
+				b_prov344 = {
+				}
+			}
+		}
+		d_duchy90 = {
+			color={ 207 147 58 }
+			color2={ 207 97 58 }
+			
+			c_prov345 = {
+				color={ 231 222 209 }
+				color2={ 231 202 189 }
+				
+				b_prov345 = {
+				}
+			}
+			c_prov346 = {
+				color={ 118 93 60 }
+				color2={ 118 113 80 }
+				
+				b_prov346 = {
+				}
+			}
+			c_prov347 = {
+				color={ 207 97 58 }
+				color2={ 207 117 78 }
+				
+				b_prov347 = {
+				}
+			}
+			c_prov348 = {
+				color={ 119 61 73 }
+				color2={ 119 81 93 }
+				
+				b_prov348 = {
+				}
+			}
+		}
+		d_duchy91 = {
+			color={ 139 97 32 }
+			color2={ 89 97 32 }
+			
+			c_prov349 = {
+				color={ 204 135 15 }
+				color2={ 204 155 35 }
+				
+				b_prov349 = {
+				}
+			}
+			c_prov350 = {
+				color={ 89 97 32 }
+				color2={ 109 97 52 }
+				
+				b_prov350 = {
+				}
+			}
+			c_prov351 = {
+				color={ 40 32 24 }
+				color2={ 40 52 44 }
+				
+				b_prov351 = {
+				}
+			}
+			c_prov352 = {
+				color={ 140 141 70 }
+				color2={ 160 141 90 }
+				
+				b_prov352 = {
+				}
+			}
+		}
+		d_duchy92 = {
+			color={ 158 152 62 }
+			color2={ 158 102 62 }
+			
+			c_prov353 = {
+				color={ 159 16 20 }
+				color2={ 159 36 40 }
+				
+				b_prov353 = {
+				}
+			}
+			c_prov354 = {
+				color={ 158 102 62 }
+				color2={ 158 122 82 }
+				
+				b_prov354 = {
+				}
+			}
+			c_prov355 = {
+				color={ 226 73 17 }
+				color2={ 226 93 37 }
+				
+				b_prov355 = {
+				}
+			}
+		}
+		d_duchy93 = {
+			color={ 96 113 38 }
+			color2={ 96 63 38 }
+			
+			c_prov356 = {
+				color={ 206 196 127 }
+				color2={ 206 176 147 }
+				
+				b_prov356 = {
+				}
+			}
+			c_prov357 = {
+				color={ 50 65 84 }
+				color2={ 70 85 84 }
+				
+				b_prov357 = {
+				}
+			}
+			c_prov358 = {
+				color={ 96 63 38 }
+				color2={ 96 83 58 }
+				
+				b_prov358 = {
+				}
+			}
+			c_prov359 = {
+				color={ 205 68 66 }
+				color2={ 205 88 86 }
+				
+				b_prov359 = {
+				}
+			}
+		}
+		d_duchy94 = {
+			color={ 47 112 68 }
+			color2={ 47 62 68 }
+			
+			c_prov360 = {
+				color={ 119 84 95 }
+				color2={ 119 104 115 }
+				
+				b_prov360 = {
+				}
+			}
+			c_prov361 = {
+				color={ 70 87 72 }
+				color2={ 90 87 92 }
+				
+				b_prov361 = {
+				}
+			}
+			c_prov362 = {
+				color={ 47 62 68 }
+				color2={ 67 82 68 }
+				
+				b_prov362 = {
+				}
+			}
+		}
+	}
+}
+e_empire8 = {
+	color={ 170 20 170 }
+	color2={ 255 255 0 }
+	
+	k_kingdom21 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy95 = {
+			color={ 54 56 104 }
+			color2={ 54 56 54 }
+			
+			c_prov372 = {
+				color={ 54 56 54 }
+				color2={ 74 56 74 }
+				
+				b_prov372 = {
+				}
+			}
+			c_prov373 = {
+				color={ 112 175 77 }
+				color2={ 132 175 97 }
+				
+				b_prov373 = {
+				}
+			}
+		}
+		d_duchy96 = {
+			color={ 212 140 53 }
+			color2={ 212 90 53 }
+			
+			c_prov374 = {
+				color={ 87 86 75 }
+				color2={ 87 106 95 }
+				
+				b_prov374 = {
+				}
+			}
+			c_prov375 = {
+				color={ 212 90 53 }
+				color2={ 212 110 73 }
+				
+				b_prov375 = {
+				}
+			}
+			c_prov376 = {
+				color={ 175 153 110 }
+				color2={ 175 173 130 }
+				
+				b_prov376 = {
+				}
+			}
+		}
+		d_duchy97 = {
+			color={ 235 135 36 }
+			color2={ 235 85 36 }
+			
+			c_prov377 = {
+				color={ 99 16 9 }
+				color2={ 99 36 29 }
+				
+				b_prov377 = {
+				}
+			}
+			c_prov378 = {
+				color={ 235 85 36 }
+				color2={ 235 105 56 }
+				
+				b_prov378 = {
+				}
+			}
+		}
+		d_duchy98 = {
+			color={ 92 36 65 }
+			color2={ 42 36 65 }
+			
+			c_prov387 = {
+				color={ 169 148 117 }
+				color2={ 169 168 137 }
+				
+				b_prov387 = {
+				}
+			}
+			c_prov388 = {
+				color={ 42 36 65 }
+				color2={ 62 56 65 }
+				
+				b_prov388 = {
+				}
+			}
+		}
+	}
+	k_kingdom22 = {
+		color={ 0 0 255 }
+		color2={ 198 0 93 }
+		
+		d_duchy99 = {
+			color={ 50 98 125 }
+			color2={ 50 98 75 }
+			
+			c_prov379 = {
+				color={ 187 135 59 }
+				color2={ 187 155 79 }
+				
+				b_prov379 = {
+				}
+			}
+			c_prov380 = {
+				color={ 24 50 58 }
+				color2={ 44 70 58 }
+				
+				b_prov380 = {
+				}
+			}
+			c_prov381 = {
+				color={ 50 98 75 }
+				color2={ 70 98 95 }
+				
+				b_prov381 = {
+				}
+			}
+		}
+		d_duchy100 = {
+			color={ 95 115 193 }
+			color2={ 95 165 193 }
+			
+			c_prov382 = {
+				color={ 95 165 193 }
+				color2={ 115 145 193 }
+				
+				b_prov382 = {
+				}
+			}
+			c_prov383 = {
+				color={ 200 204 202 }
+				color2={ 180 204 182 }
+				
+				b_prov383 = {
+				}
+			}
+			c_prov384 = {
+				color={ 105 178 100 }
+				color2={ 125 178 120 }
+				
+				b_prov384 = {
+				}
+			}
+		}
+		d_duchy101 = {
+			color={ 48 11 81 }
+			color2={ 48 11 31 }
+			
+			c_prov385 = {
+				color={ 48 11 31 }
+				color2={ 48 31 51 }
+				
+				b_prov385 = {
+				}
+			}
+			c_prov386 = {
+				color={ 92 44 64 }
+				color2={ 92 64 84 }
+				
+				b_prov386 = {
+				}
+			}
+		}
+	}
+}

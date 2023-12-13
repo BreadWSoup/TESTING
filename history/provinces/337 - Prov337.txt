@@ -1,0 +1,14 @@
+# 337 - Prov337
+
+# County Title
+title = c_prov337
+
+# Settlements
+max_settlements = 3
+b_prov337 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

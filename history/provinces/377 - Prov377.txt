@@ -1,0 +1,14 @@
+# 377 - Prov377
+
+# County Title
+title = c_prov377
+
+# Settlements
+max_settlements = 3
+b_prov377 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

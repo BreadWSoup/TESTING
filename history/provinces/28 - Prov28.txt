@@ -1,0 +1,14 @@
+# 28 - Prov28
+
+# County Title
+title = c_prov28
+
+# Settlements
+max_settlements = 3
+b_prov28 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

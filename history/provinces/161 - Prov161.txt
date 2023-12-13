@@ -1,0 +1,14 @@
+# 161 - Prov161
+
+# County Title
+title = c_prov161
+
+# Settlements
+max_settlements = 3
+b_prov161 = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
