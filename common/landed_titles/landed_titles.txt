@@ -25,8 +25,8 @@ e_pirates = {
 }
 
 e_empire1 = {
-	color={ 170 20 170 }
-	color2={ 255 255 0 }
+	color={ 47 32 96 }
+	color2={ 67 52 96 }
 	
 	k_kingdom1 = {
 		color={ 247 135 154 }
@@ -582,8 +582,8 @@ e_empire1 = {
 	}
 }
 e_empire2 = {
-	color={ 170 20 170 }
-	color2={ 255 255 0 }
+	color={ 25 114 5 }
+	color2={ 45 114 25 }
 	
 	k_kingdom4 = {
 		color={ 26 182 206 }
@@ -1076,8 +1076,8 @@ e_empire2 = {
 	}
 }
 e_empire3 = {
-	color={ 170 20 170 }
-	color2={ 255 255 0 }
+	color={ 209 209 4 }
+	color2={ 229 209 24 }
 	
 	k_kingdom7 = {
 		color={ 10 91 132 }
@@ -1289,8 +1289,8 @@ e_empire3 = {
 	}
 }
 e_empire4 = {
-	color={ 170 20 170 }
-	color2={ 255 255 0 }
+	color={ 178 66 17 }
+	color2={ 178 86 37 }
 	
 	k_kingdom9 = {
 		color={ 197 15 221 }
@@ -1965,8 +1965,8 @@ e_empire4 = {
 	}
 }
 e_empire5 = {
-	color={ 170 20 170 }
-	color2={ 255 255 0 }
+	color={ 198 17 108 }
+	color2={ 198 37 128 }
 	
 	k_kingdom13 = {
 		color={ 29 0 124 }
@@ -2440,8 +2440,8 @@ e_empire5 = {
 	}
 }
 e_empire6 = {
-	color={ 170 20 170 }
-	color2={ 255 255 0 }
+	color={ 22 127 127 }
+	color2={ 42 127 147 }
 	
 	k_kingdom16 = {
 		color={ 90 87 63 }
@@ -2634,8 +2634,8 @@ e_empire6 = {
 	}
 }
 e_empire7 = {
-	color={ 170 20 170 }
-	color2={ 255 255 0 }
+	color={ 27 255 131 }
+	color2={ 47 255 151 }
 	
 	k_kingdom18 = {
 		color={ 185 161 147 }
@@ -3227,8 +3227,8 @@ e_empire7 = {
 	}
 }
 e_empire8 = {
-	color={ 170 20 170 }
-	color2={ 255 255 0 }
+	color={ 202 18 3 }
+	color2={ 202 38 23 }
 	
 	k_kingdom21 = {
 		color={ 63 0 15 }
