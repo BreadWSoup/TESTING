@@ -586,8 +586,8 @@ e_empire2 = {
 	color2={ 255 255 0 }
 	
 	k_kingdom4 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 26 182 206 }
+		color2={ 46 202 206 }
 		
 		d_duchy16 = {
 			color={ 220 167 90 }
@@ -730,8 +730,8 @@ e_empire2 = {
 		}
 	}
 	k_kingdom5 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 224 202 33 }
+		color2={ 224 222 53 }
 		
 		d_duchy20 = {
 			color={ 252 175 13 }
@@ -912,8 +912,8 @@ e_empire2 = {
 		}
 	}
 	k_kingdom6 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 226 121 9 }
+		color2={ 226 141 29 }
 		
 		d_duchy26 = {
 			color={ 7 64 44 }
@@ -1080,8 +1080,8 @@ e_empire3 = {
 	color2={ 255 255 0 }
 	
 	k_kingdom7 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 10 91 132 }
+		color2={ 30 111 132 }
 		
 		d_duchy31 = {
 			color={ 110 72 127 }
@@ -1191,8 +1191,8 @@ e_empire3 = {
 		}
 	}
 	k_kingdom8 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 132 5 26 }
+		color2={ 132 25 46 }
 		
 		d_duchy34 = {
 			color={ 17 80 42 }
@@ -1293,8 +1293,8 @@ e_empire4 = {
 	color2={ 255 255 0 }
 	
 	k_kingdom9 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 197 15 221 }
+		color2={ 217 35 221 }
 		
 		d_duchy37 = {
 			color={ 117 167 121 }
@@ -1416,8 +1416,8 @@ e_empire4 = {
 		}
 	}
 	k_kingdom10 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 112 4 158 }
+		color2={ 132 24 158 }
 		
 		d_duchy41 = {
 			color={ 6 122 119 }
@@ -1619,8 +1619,8 @@ e_empire4 = {
 		}
 	}
 	k_kingdom11 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 242 227 26 }
+		color2={ 242 247 46 }
 		
 		d_duchy47 = {
 			color={ 224 52 117 }
@@ -1815,8 +1815,8 @@ e_empire4 = {
 		}
 	}
 	k_kingdom12 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 21 114 3 }
+		color2={ 41 114 23 }
 		
 		d_duchy53 = {
 			color={ 60 118 79 }
@@ -1969,8 +1969,8 @@ e_empire5 = {
 	color2={ 255 255 0 }
 	
 	k_kingdom13 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 29 0 124 }
+		color2={ 49 20 124 }
 		
 		d_duchy58 = {
 			color={ 39 94 47 }
@@ -2139,8 +2139,8 @@ e_empire5 = {
 		}
 	}
 	k_kingdom14 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 20 20 20 }
+		color2={ 40 40 20 }
 		
 		d_duchy63 = {
 			color={ 195 52 122 }
@@ -2283,8 +2283,8 @@ e_empire5 = {
 		}
 	}
 	k_kingdom15 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 150 50 25 }
+		color2={ 150 70 45 }
 		
 		d_duchy67 = {
 			color={ 51 146 122 }
@@ -2444,8 +2444,8 @@ e_empire6 = {
 	color2={ 255 255 0 }
 	
 	k_kingdom16 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 90 87 63 }
+		color2={ 90 107 83 }
 		
 		d_duchy72 = {
 			color={ 57 7 25 }
@@ -2529,8 +2529,8 @@ e_empire6 = {
 		}
 	}
 	k_kingdom17 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 76 183 165 }
+		color2={ 96 183 185 }
 		
 		d_duchy74 = {
 			color={ 41 16 89 }
@@ -2638,8 +2638,8 @@ e_empire7 = {
 	color2={ 255 255 0 }
 	
 	k_kingdom18 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 185 161 147 }
+		color2={ 185 181 167 }
 		
 		d_duchy77 = {
 			color={ 117 155 178 }
@@ -2815,7 +2815,7 @@ e_empire7 = {
 		}
 	}
 	k_kingdom19 = {
-		color={ 0 0 255 }
+		color={ 253 184 37 }
 		color2={ 198 0 93 }
 		
 		d_duchy82 = {
@@ -3044,8 +3044,8 @@ e_empire7 = {
 		}
 	}
 	k_kingdom20 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 228 0 124 }
+		color2={ 228 20 144 }
 		
 		d_duchy89 = {
 			color={ 253 144 32 }
@@ -3231,8 +3231,8 @@ e_empire8 = {
 	color2={ 255 255 0 }
 	
 	k_kingdom21 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 63 0 15 }
+		color2={ 63 20 35 }
 		
 		d_duchy95 = {
 			color={ 54 56 104 }
@@ -3319,8 +3319,8 @@ e_empire8 = {
 		}
 	}
 	k_kingdom22 = {
-		color={ 0 0 255 }
-		color2={ 198 0 93 }
+		color={ 244 175 205 }
+		color2={ 244 195 225 }
 		
 		d_duchy99 = {
 			color={ 50 98 125 }
